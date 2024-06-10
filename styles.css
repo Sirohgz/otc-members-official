@@ -1,0 +1,97 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1rem;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
+    margin: 2rem 0;
+}
+
+footer {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    bottom: 0;
+    width: 100%;
+}
+:root {
+	font-family: Roboto,sans-serif;
+	font-size: 1em;
+	line-height: 1.5rem;
+	color: #17262b;
+	box-sizing: border-box;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+:root {
+	font-family: Roboto,sans-serif;
+	font-size: 1em;
+	line-height: 1.5rem;
+	color: #17262b;
+	box-sizing: border-box;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+}
+html, body {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+}
+*, *:before, *:after {
+	/* box-sizing: inherit; */
+}
+
+html[Attributes Style] {
+	-webkit-locale: "en";
+}
+user agent stylesheet
+:root {
+	view-transition-name: root;
+}
+user agent stylesheet
+html {
+	display: block;
+}
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+*, *:before, *:after {
+	box-sizing: inherit;
+}
+*, *:before, *:after {
+	box-sizing: inherit;
+     <style>@charset "UTF-8";*,*:before,*:after{box-sizing:inherit}html,body{margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline}@font-face{font-family:Roboto;font-style:normal;font-weight:300;src:local("Roboto Light"),local("Roboto-Light"),url(/assets/fonts/Roboto-Light.woff2) format("woff2"),url(/assets/fonts/Roboto-Light.woff) format("woff"),url(/assets/fonts/Roboto-Light.ttf) format("truetype");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215}@font-face{font-family:Roboto;font-style:normal;font-weight:400;src:local("Roboto"),local("Roboto-Regular"),url(/assets/fonts/Roboto-Regular.woff2) format("woff2"),url(/assets/fonts/Roboto-Regular.woff) format("woff"),url(/assets/fonts/Roboto-Regular.ttf) format("truetype");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215}@font-face{font-family:Roboto;font-style:normal;font-weight:500;src:local("Roboto"),local("Roboto-Medium"),url(/assets/fonts/Roboto-Medium.woff2) format("woff2"),url(/assets/fonts/Roboto-Medium.woff) format("woff"),url(/assets/fonts/Roboto-Medium.ttf) format("truetype");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215}@font-face{font-family:Roboto;font-style:normal;font-weight:700;src:local("Roboto"),local("Roboto-Bold"),url(/assets/fonts/Roboto-Bold.woff2) format("woff2"),url(/assets/fonts/Roboto-Bold.woff) format("woff"),url(/assets/fonts/Roboto-Bold.ttf) format("truetype");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215}:root{font-family:Roboto,sans-serif;font-size:1em;line-height:1.5rem;color:#17262b;box-sizing:border-box;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}@font-face{font-family:Roboto;font-style:normal;font-weight:300;src:local("Roboto Light"),local("Roboto-Light"),url(/assets/fonts/Roboto-Light.woff2) format("woff2"),url(/assets/fonts/Roboto-Light.woff) format("woff"),url(/assets/fonts/Roboto-Light.ttf) format("truetype");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215}@font-face{font-family:Roboto;font-style:normal;font-weight:400;src:local("Roboto"),local("Roboto-Regular"),url(/assets/fonts/Roboto-Regular.woff2) format("woff2"),url(/assets/fonts/Roboto-Regular.woff) format("woff"),url(/assets/fonts/Roboto-Regular.ttf) format("truetype");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215}@font-face{font-family:Roboto;font-style:normal;font-weight:500;src:local("Roboto"),local("Roboto-Medium"),url(/assets/fonts/Roboto-Medium.woff2) format("woff2"),url(/assets/fonts/Roboto-Medium.woff) format("woff"),url(/assets/fonts/Roboto-Medium.ttf) format("truetype");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215}@font-face{font-family:Roboto;font-style:normal;font-weight:700;src:local("Roboto"),local("Roboto-Bold"),url(/assets/fonts/Roboto-Bold.woff2) format("woff2"),url(/assets/fonts/Roboto-Bold.woff) format("woff"),url(/assets/fonts/Roboto-Bold.ttf) format("truetype");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215}@charset "UTF-8";@font-face{font-family:Roboto;font-style:normal;font-weight:300;src:local("Roboto Light"),local("Roboto-Light"),url(/assets/fonts/Roboto-Light.woff2) format("woff2"),url(/assets/fonts/Roboto-Light.woff) format("woff"),url(/assets/fonts/Roboto-Light.ttf) format("truetype");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215}@font-face{font-family:Roboto;font-style:normal;font-weight:400;src:local("Roboto"),local("Roboto-Regular"),url(/assets/fonts/Roboto-Regular.woff2) format("woff2"),url(/assets/fonts/Roboto-Regular.woff) format("woff"),url(/assets/fonts/Roboto-Regular.ttf) format("truetype");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215}@font-face{font-family:Roboto;font-style:normal;font-weight:500;src:local("Roboto"),local("Roboto-Medium"),url(/assets/fonts/Roboto-Medium.woff2) format("woff2"),url(/assets/fonts/Roboto-Medium.woff) format("woff"),url(/assets/fonts/Roboto-Medium.ttf) format("truetype");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215}@font-face{font-family:Roboto;font-style:normal;font-weight:700;src:local("Roboto"),local("Roboto-Bold"),url(/assets/fonts/Roboto-Bold.woff2) format("woff2"),url(/assets/fonts/Roboto-Bold.woff) format("woff"),url(/assets/fonts/Roboto-Bold.ttf) format("truetype");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215}body{font-family:Roboto,sans-serif;font-size:1em;line-height:1.5rem;color:#17262b;box-sizing:border-box;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;background-color:#fff;min-width:320px}</style><link rel="stylesheet" href="https://assets.printify.me/styles.8c1b19326c7d73e0.css"><meta revision="rv-2d136a21"><style type="text/css"></style><style>@charset "UTF-8";  .theme-form-input .input-area,   .theme-form-input .decorated-area{border-width:1px;border-style:solid;background-color:#fff;border-color:#9fa4a5}  .theme-form-input .border{display:none!important}  .theme-form-input .invalid .input-area{border-color:#ce364f!important;border-width:2px}  .theme-form-input .decorated-area .input-area{border:none!important}  .theme-form-input .input-decorator .decorator,   .theme-form-input .input-decorator .decorator.prefix,   .theme-form-input .input-decorator .decorator.suffix{background:transparent!important}  .theme-form-input input{background:inherit;color:inherit}  .theme-form-input .input-icon{color:inherit}  .theme-button-primary .button,   .theme-button-secondary .button,   .theme-button-ghost .button{border-radius:4px}  .theme-link{color:#29ab51}  .theme-image{border-color:#e3e4e5;border-width:1px;border-radius:3px}  .theme-carousel-image{border-color:#e3e4e5;border-width:1px;border-radius:8px}  .theme-active-image{border-color:#29ab51;border-width:2px;border-style:solid}@media (min-width: 960px){  .theme-active-image{border-style:none}}  .theme-badge{background-color:#29ab51;color:#fff}  .theme-text-secondary,   .theme-panel-text-secondary{color:#686f71}  .theme-text-secondary svg.theme-icon,   .theme-panel-text-secondary svg.theme-icon{fill:#686f71}  .theme-icon{color:#17262b}  .theme-icon-primary{color:#29ab51}  .theme-icon-primary svg.theme-icon{fill:#29ab51!important}  .theme-header-menu-item{border-bottom:1px solid transparent}  .theme-checkout-summary-totals-container{border-top:1px solid #e3e4e5;border-bottom:1px solid #e3e4e5}  .theme-header-menu-item-selected,   .theme-header-menu-item-selected:hover{border-bottom:1px solid #29ab51}  .theme-header-menu-item-selected a{font-weight:700}  .theme-header-menu-item:hover{border-bottom:1px solid #686f71}  .theme-checkout-summary-container{background-color:#f7f7f7}  .theme-well{background-color:#f7f7f7;border-color:#e3e4e5}  .theme-divider{border-top-width:1px;border-top-style:solid;border-top-color:#e3e4e5}  .img-wrap{border-width:1px;border-style:solid}  .footer-layout-container{border-top:1px solid #e3e4e5}  .theme-footer-powered-by{border-color:#e3e4e5}  .theme-footer-supported-payment{border-color:#e3e4e5}  .theme-social-media-link .button{border-color:transparent}  .theme-social-media-link .button:hover{border:1px solid transparent}  .theme-footer-social-media-link{border-color:transparent}  .theme-footer-social-media-link:hover{background-color:#f7f7f7;border:1px solid transparent}  .theme-footer-link .link,   .theme-footer-link .link:hover,   .theme-footer-link .link.primary,   .theme-footer-link .link.primary:hover{color:#17262b}  .theme-cart-popover-container{border:1px solid #e3e4e5;background:#ffffff;border-radius:3px}  .theme-cart-popover-thumbnail{border:1px solid #e3e4e5;border-radius:3px}  .theme-cart-popover-product-title{color:#203741}  .theme-cart-popover-product-details{color:#686f71}  .theme-cart-popover-price{color:#203741}  .theme-cart-popover-product-container{border-bottom-width:1px;border-bottom-style:solid;border-top-width:1px;border-top-style:solid;background-color:#f7f7f7;border-color:transparent}  .main-image-inner,   .thumbnail-item-inner{border-style:solid}  .theme-cart-summary-container{border:1px solid #e3e4e5}  .theme-cart-product-container{border-bottom:1px solid #e3e4e5}  .theme-cart-total-item{color:#17262b}  .theme-panel{background-color:#f7f7f7}[_nghost-serverApp-c1608412380]{display:block}.content[_ngcontent-serverApp-c1608412380]{flex:1;display:flex;flex-direction:column}.app-container[_ngcontent-serverApp-c1608412380]{display:flex;flex-direction:column;min-height:100vh}.feedback-button[_ngcontent-serverApp-c1608412380]{position:fixed;right:0;top:50%;transform:rotate(-90deg) translate(100%);transform-origin:bottom right;padding:.5rem 1rem;background-color:#e6ecf4;color:#17262b;border-top-left-radius:8px;border-top-right-radius:8px;cursor:pointer;z-index:5}</style>
